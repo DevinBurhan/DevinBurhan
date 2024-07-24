@@ -1,3 +1,7 @@
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizanahmedsy" alt="faizanahmedsy" /></a> </p>
+
+
+
 - 👋 Hi, I’m @burhan
 - 👀 I’m passionate about Frontend and backend.
 - 🌱 I’m currently learning Next.js.
